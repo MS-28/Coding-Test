@@ -1,0 +1,7 @@
+Hello,
+
+I hope you are doing well. After going through and analysing the data I had a few questions and comments about it which I wanted to share with you. I noticed some quality issues with the data like null/missing values which needs to be addressed. There are also issues of duplicate and inconsistent data which is driving the quality of the data down. My suggestion would be to drop these values if they are not significant. I would love to know more about the customrer/user demographics using which we can come up with data visualization tools which will aid the company make key decisions. Data quality is causing us to take more time in the pre-processing stage so we need to sort it out if we need to scale the company. We also need to find a way to efficiently automate this process in a cost efficient and secure way.
+I would love to schedule a meeting to further discuss this matter with you. Please let me know a time which will best suit you. Thank you.
+
+Best Regards,
+M
